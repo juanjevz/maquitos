@@ -1,1 +1,1 @@
-
+Este documento se creó para forzar la creación de la carpeta "paginas"
