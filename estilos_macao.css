@@ -1,0 +1,24 @@
+p {    
+    font-size:100%;
+	text-align:justify;
+}
+
+h1 {
+    color:black;
+}            
+h2 {
+	color:#000000c4;
+}
+h3 {
+		color:brown;		
+}
+body {
+    font-family: "Times New Roman", Times, serif;
+	background-color:#80808029; /*grey*/
+    color:#000000c4; /*almost black*/
+    margin:40px 40px 40px 40px;
+    border:12px solid;
+	padding:40px 40px 40px 40px;
+}  
+
+
